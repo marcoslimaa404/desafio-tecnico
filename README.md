@@ -1,2 +1,2 @@
 # desafio-tecnico-csharp
-Desafio técnico feito em C# para uma vaga de Desenvolvedor Jr.
+Desafio técnico para uma vaga de Desenvolvedor Jr., realizado em um dispositivo Android utilizando Acode e a linguagem C#.
