@@ -25,5 +25,5 @@ O projeto está organizado em arquivos separados para cada questão:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/desafio-tecnico-csharp.git
+   git clone https://github.com/marcoslimaa404/desafio-tecnico-csharp.git
    cd desafio-tecnico-csharp
