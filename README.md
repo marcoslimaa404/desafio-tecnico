@@ -1,29 +1,52 @@
-# Desafio Técnico - C#
+# Desafio Técnico — C#
+
+[![CSharp](https://img.shields.io/badge/C%23-.NET%207-blue?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
+[![Plataforma](https://img.shields.io/badge/Plataforma-Android%20Mobile-orange?logo=android)]()
+[![Editor](https://img.shields.io/badge/Editor-Acode-informational?logo=visualstudiocode)]()
+[![Executado no Termux](https://img.shields.io/badge/Execucao-Termux-000000?logo=linux)]()
+[![Licença](https://img.shields.io/badge/Licença-MIT-green)](LICENSE)
+
+---
 
 Este repositório contém a resolução de um desafio técnico para uma vaga de Desenvolvedor Júnior, utilizando exclusivamente um dispositivo Android.
 
-## Ambiente
+## Ambiente de Desenvolvimento
 
-O projeto foi inteiramente desenvolvido em um ambiente mobile:
+O projeto foi inteiramente desenvolvido em ambiente mobile:
 
-- **Editor:** [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) (editor de código para Android)
-- **Execução/Testes:** [Termux](https://f-droid.org/en/packages/com.termux/) com .NET SDK instalado via CLI
+- **Editor:** [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) — Editor de código para Android  
+- **Execução/Testes:** [Termux](https://f-droid.org/en/packages/com.termux/) com .NET SDK instalado via CLI  
 - **Linguagem:** C# (.NET 7)
 
-## Estrutura
+## Estrutura do Projeto
 
-O projeto está organizado em arquivos separados para cada questão:
+Cada desafio foi implementado em um arquivo separado, facilitando a leitura e execução individual:
 
-- `Desafio1_Soma.cs` — Soma incremental de 1 até 13
-- `Desafio2_Fibonacci.cs` — Verifica se um número pertence à sequência de Fibonacci
-- `Desafio3_JsonFaturamento.cs` — Análise de faturamento diário a partir de um arquivo JSON
-- `Desafio4_PercentualEstados.cs` — Cálculo de percentual de faturamento por estado
-- `Desafio5_InverterString.cs` — Inversão manual de string sem uso de métodos prontos
-- `Program.cs` — Interface interativa para escolher qual desafio executar
+```
+desafio-tecnico-csharp/
+├── Desafio1_Soma.cs              # Soma incremental de 1 até 13
+├── Desafio2_Fibonacci.cs         # Verifica se um número pertence à sequência de Fibonacci
+├── Desafio3_JsonFaturamento.cs   # Análise de faturamento diário a partir de um arquivo JSON
+├── Desafio4_PercentualEstados.cs # Cálculo de percentual de faturamento por estado
+├── Desafio5_InverterString.cs    # Inversão manual de string sem uso de métodos prontos
+└── Program.cs                    # Interface interativa para escolher qual desafio executar
+```
 
-## Como executar
+## Como Executar
 
 1. Clone o repositório:
-   ```bash
+```bash
    git clone https://github.com/marcoslimaa404/desafio-tecnico-csharp.git
    cd desafio-tecnico-csharp
+```
+
+2. Compile e execute com o SDK .NET:
+```
+   dotnet run
+```
+
+> Observação: no Android, é necessário utilizar o Termux com o .NET instalado manualmente.
+
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT.
