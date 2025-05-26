@@ -8,7 +8,7 @@
 
 Esse repositório contém a resolução de um desafio técnico para uma vaga de dev, feito exclusivamente em um celular Android.
 
-## Ambiente de desenvolvimento
+## Programas utilizados
 
 O projeto foi inteiramente desenvolvido no mobile, para isso utilizei:
 
