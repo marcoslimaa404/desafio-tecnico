@@ -6,8 +6,6 @@
 [![Executado no Termux](https://img.shields.io/badge/Execucao-Termux-000000?logo=linux)]()
 [![Licença](https://img.shields.io/badge/Licença-MIT-green)](LICENSE)
 
----
-
 Este repositório contém a resolução de um desafio técnico para uma vaga de Desenvolvedor, utilizando exclusivamente um celular Android.
 
 ## Ambiente de Desenvolvimento
