@@ -8,14 +8,14 @@
 
 ---
 
-Este repositório contém a resolução de um desafio técnico para uma vaga de Desenvolvedor Júnior, utilizando exclusivamente um dispositivo Android.
+Este repositório contém a resolução de um desafio técnico para uma vaga de Desenvolvedor, utilizando exclusivamente um celular Android.
 
 ## Ambiente de Desenvolvimento
 
-O projeto foi inteiramente desenvolvido em ambiente mobile:
+O projeto foi inteiramente desenvolvido no mobile, para isso utilizei:
 
-- **Editor:** [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) — Editor de código para Android  
-- **Execução/Testes:** [Termux](https://f-droid.org/en/packages/com.termux/) com .NET SDK instalado via CLI  
+- **Editor de código:** [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) — Editor de código para Android  
+- **Execução:** [Termux](https://f-droid.org/en/packages/com.termux/) com .NET SDK instalado via CLI  
 - **Linguagem:** C# (.NET 7)
 
 ## Estrutura do Projeto
@@ -36,16 +36,14 @@ desafio-tecnico-csharp/
 
 1. Clone o repositório:
 ```bash
-   git clone https://github.com/marcoslimaa404/desafio-tecnico-csharp.git
-   cd desafio-tecnico-csharp
+   git clone https://github.com/marcoslimaa404/desafio-tecnico.git
+   cd desafio-tecnico
 ```
 
 2. Compile e execute com o SDK .NET:
 ```
    dotnet run
 ```
-
-> Observação: no Android, é necessário utilizar o Termux com o .NET instalado manualmente.
 
 ## Licença
 
