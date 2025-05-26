@@ -12,7 +12,7 @@ Este repositório contém a resolução de um desafio técnico para uma vaga de 
 
 O projeto foi inteiramente desenvolvido no mobile, para isso utilizei:
 
-- **Editor de código:** [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode) — Editor de código para Android  
+- **Editor de código:** [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acode)
 - **Execução:** [Termux](https://f-droid.org/en/packages/com.termux/) com .NET SDK instalado via CLI  
 - **Linguagem:** C# (.NET 7)
 
