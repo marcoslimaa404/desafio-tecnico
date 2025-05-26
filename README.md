@@ -30,6 +30,10 @@ desafio-tecnico-csharp/
 └── Program.cs                    # Interface interativa para escolher qual desafio executar
 ```
 
+## Duração do desenvolvimento
+
+Do desenvolvimento à entrega: 20 minutos.
+
 ## Como executar
 
 1. Clone o repositório:
