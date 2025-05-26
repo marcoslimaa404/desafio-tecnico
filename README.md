@@ -8,7 +8,7 @@
 
 Este repositório contém a resolução de um desafio técnico para uma vaga de Desenvolvedor, utilizando exclusivamente um celular Android.
 
-## Ambiente de Desenvolvimento
+## Ambiente de desenvolvimento
 
 O projeto foi inteiramente desenvolvido no mobile, para isso utilizei:
 
@@ -16,7 +16,7 @@ O projeto foi inteiramente desenvolvido no mobile, para isso utilizei:
 - **Execução:** [Termux](https://f-droid.org/en/packages/com.termux/) com .NET SDK instalado via CLI  
 - **Linguagem:** C# (.NET 7)
 
-## Estrutura do Projeto
+## Estrutura do projeto
 
 Cada desafio foi implementado em um arquivo separado, facilitando a leitura e execução individual:
 
@@ -30,7 +30,7 @@ desafio-tecnico-csharp/
 └── Program.cs                    # Interface interativa para escolher qual desafio executar
 ```
 
-## Como Executar
+## Como executar
 
 1. Clone o repositório:
 ```bash
