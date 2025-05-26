@@ -1,4 +1,4 @@
-# Desafio Técnico — C#
+# Desafio técnico emcC#
 
 [![CSharp](https://img.shields.io/badge/C%23-.NET%207-blue?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Android%20Mobile-orange?logo=android)]()
